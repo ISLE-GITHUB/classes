@@ -1,0 +1,1 @@
+#Documentation of python class bit sized projects
